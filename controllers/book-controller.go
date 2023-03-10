@@ -6,8 +6,8 @@ import (
 	"net/http"
 	"strconv"
 
-	"Project/models"
-	"Project/utils"
+	"github.com/bala3663/go-project-book-management/models"
+	"github.com/bala3663/go-project-book-management/utils"
 
 	"github.com/gorilla/mux"
 )

@@ -1,7 +1,7 @@
 package models
 
 import (
-	"/config"
+	"github.com/bala3663/go-project-book-management/config"
 
 	"github.com/jinzhu/gorm"
 )
